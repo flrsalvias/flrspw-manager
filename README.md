@@ -1,2 +1,3 @@
 .py file
+or
 executable
